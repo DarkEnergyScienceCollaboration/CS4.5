@@ -1,4 +1,4 @@
-#  Identify relevant galaxy properties
+#  Validate input catalog properties
 
 Summary -- Mapping the cosmological simulations to a set of observables is a complicated process. The result
 of this effort will be a document outlining the validation process and results of the validation to ensure the
